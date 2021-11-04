@@ -1,0 +1,20 @@
+{
+  "name": "logofetch",
+  "version": "1.0.0",
+  "description": "Check README",
+  "main": "Source/logoFetch.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiderMath/CatFetch.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpiderMath/CatFetch/issues"
+  },
+  "homepage": "https://github.com/SpiderMath/CatFetch#readme",
+  "devDependencies": {
+    "pkg": "^5.4.1"
+  }
+}
